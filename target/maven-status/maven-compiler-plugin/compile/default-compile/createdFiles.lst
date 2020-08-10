@@ -1,0 +1,6 @@
+org/example/entity/Project.class
+org/example/App.class
+org/example/entity/Mentor.class
+org/example/entity/Developer.class
+org/example/entity/Card.class
+org/example/util/HibernateUtil.class
